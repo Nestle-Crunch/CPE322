@@ -30,6 +30,8 @@ This is my class repo for CPE/EE 322 Spring 2024
 
 This is a code example try typing <code>exit</code> in the terminal.
 
+Also, this is a link to this github repo [here](https://github.com/Nestle-Crunch/CPE322/blob/main/README.md)
+
 
 ---
 # Here's a picture of one of my dogs
