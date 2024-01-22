@@ -28,6 +28,9 @@ This is my class repo for CPE/EE 322 Spring 2024
 > 
 > marking up in markdown.
 
+This is a code example try typing <code>exit</code> in the terminal.
+
+
 ---
 # Here's a picture of one of my dogs
 
