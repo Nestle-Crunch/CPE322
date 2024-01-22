@@ -35,4 +35,6 @@ This is my class repo for CPE/EE 322 Spring 2024
 
 - He was at the vet
 - He was not happy to be there
-  * At least he wasn't whining the whole time.
+  * At least he wasn't whining the whole time.[^1]
+
+[^1]:He still wanted to leave the whole time though.
