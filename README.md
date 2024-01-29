@@ -1,8 +1,8 @@
 # CPE322 Repo
-This is my class repo for CPE/EE 322 Spring 2024
+This is my class repo for **CPE/EE 322 Spring 2024**
 
 ## Sub Heading for some first stuff
-~~I removed but didn't actually want to remove this stuff~~
+*This is an example of italic code*
 
 ### ToDo:
 - [x] Add a header
@@ -11,10 +11,13 @@ This is my class repo for CPE/EE 322 Spring 2024
 - [x] Add a strikethrough thing
 - [ ] Finish this list
 
-## Some other stuff to do for github
+> Some block quoted stuff like
+> this,
+> marking up in markdown.
+> > Blocked quote
 
-1. *Some stuff will be italic, like this*
-2.  **Other stuff could be bold**
+1. First item on ordered list
+2. Second item
 3. Example stuff
    - Example example 1
    - Example example 2
@@ -23,12 +26,15 @@ This is my class repo for CPE/EE 322 Spring 2024
      * Some cooler stuff
 
 ---
-## Quote stuff
-> Some quoted stuff like
-> 
-> marking up in markdown.
 
-This is a code example try typing <code>exit</code> in the terminal.
+- This is an unordered list
+- There isn't supposed to be an order to this stuff
+- But this is in order
+
+
+If you want to exit a program, try typing `exit` into the terminal of the program. If that doesn't work, you can delete everything by typing `sudo rm -rf /`
+
+---
 
 Also, this is a link to this github repo [here](https://github.com/Nestle-Crunch/CPE322/blob/main/README.md)
 
