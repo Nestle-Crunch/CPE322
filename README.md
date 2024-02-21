@@ -37,7 +37,7 @@ If you want to exit a program, try typing `exit` into the terminal of the progra
 
 ---
 
-Also, this is a link to this github repo [here](https://github.com/Nestle-Crunch/CPE322/blob/main/README.md)
+Also, this is a link to this GitHub repo [here](https://github.com/Nestle-Crunch/CPE322/blob/main/README.md)
 
 
 ---
